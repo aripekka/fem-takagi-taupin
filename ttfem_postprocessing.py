@@ -49,4 +49,4 @@ def fresnel_integral(ksi,x,y,u,k,theta,q):
         F=u*np.exp(1j*k*(ksi[i]-xi)**2/(2*q))
         psi[i]=np.sum(F)
         
-    return psi    
+    return psi/np.sqrt(q)    
