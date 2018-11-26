@@ -1,6 +1,6 @@
 # X-ray diffraction profile simulator based on finite element method (FEM) 
 
-COMSOL Multiphysics implementated 2D Takagi-Taupin equation solver in finite element scheme and accompanying Python programs 
+COMSOL Multiphysics implemented 2D Takagi-Taupin equation solver in finite element scheme and accompanying Python programs 
 for beam propagation computation. For the theoretical background and details, see the literature reference below.
 
 ### Contents of the repository
